@@ -1,5 +1,9 @@
 # hand_paper_reading
 
+## key point
+
+VR  hand  embodiment avatar  ownership
+
 ## idea
 
 ## overview

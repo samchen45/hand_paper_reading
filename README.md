@@ -10,7 +10,7 @@
 ## design
 
 1. hand interfaces手势交互-- Hand Interfaces: Using Hands to Imitate Objects in AR/VR forExpressive Interactions
-2. 伪触觉按钮
+2. 伪触觉按钮-- Pseudo-Haptic Button for Improving User Experience of Mid-Air Interaction in VR
 3. 交互感问卷设计-- Construction of the Virtual Embodiment Questionnaire (VEQ)
 
 ## evaluation

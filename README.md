@@ -1,6 +1,6 @@
 # hand_paper_reading
 
-## key point
+## key words
 
 VR  hand  embodiment avatar  ownership
 
